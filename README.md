@@ -205,7 +205,7 @@ es descartado automáticamente.
 | Archivo | Descripción |
 |---|---|
 | <img width="905" height="527" alt="image" src="https://github.com/user-attachments/assets/17d1eead-da9f-439e-a4fa-33d2c18f4b1e" /> | Topología en EVE-NG |
-| <img width="838" height="155" alt="image" src="https://github.com/user-attachments/assets/feb02ff7-37d4-4e33-aa3a-35cc284c2ba9" /> | Tabla ARP de PC1 antes del ataque |
+| <img width="388" height="78" alt="image" src="https://github.com/user-attachments/assets/55b00c2c-fd93-4e44-afd5-76bebe0ec3f8" />  |Tabla ARP de PC1 antes del ataque |
 |<img width="935" height="518" alt="image" src="https://github.com/user-attachments/assets/ef7c06ff-715d-4b94-a1d2-c85388714f5b" />  | Script corriendo con paquetes enviados |
 | <img width="665" height="116" alt="image" src="https://github.com/user-attachments/assets/cbb5ebd0-cd30-4eba-b5b0-3eb1a6b9a96b" /> | Tabla ARP de PC1 con MAC falsa |
 | <img width="793" height="483" alt="image" src="https://github.com/user-attachments/assets/ac3ab270-ff0b-4062-aaa8-feca26eb14ff" /> | ARP Inspection activo en SW-CORE |

@@ -3,7 +3,7 @@
 **Autor:** Roger Rodriguez  
 **Matrícula:** 20250757  
 **Fecha:** Junio 2026  
-**Link** https://youtu.be/Gi_knIUwEgI
+**Link:** https://youtu.be/Gi_knIUwEgI
 
 ---
 
